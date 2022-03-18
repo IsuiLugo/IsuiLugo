@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Isui 👨‍🚀
-<!--
- Currently{
+
+Currently{
     I'm student of Computer Sciences 📘
     I'm learning Cybersecurity and Cloud ☁
     I'm working on my skills
@@ -21,4 +21,4 @@
     GitHub
     Azure
  } 
--->
+
