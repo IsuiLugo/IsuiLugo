@@ -1,24 +1,19 @@
-### Hi there 👋
-## I'm Isui 👨‍🚀
-
-Currently{  
-    -I'm student of Computer Sciences 📘
-    -I'm learning Cybersecurity and Cloud ☁
-    -I'm working on my skills
+## Hi there 👋 I'm Isui Martinez
+# Software Engineer 👨‍🚀
+I love dogs and reading 📘
+~~~
+Learning{  
+    Computer Systems engineering
+    Cybersecurity
+    Cloud Computing
+    Web Development
  }
-  
- Studen{  
-    -Tecnológico Nacional de México campus Pachuca
-    -Universidad Digital del Estado de Hidalgo  
- } 
-  
-  Technologies{
-    -JavaSE
-    -HTML
-    -CSS
-    -JavaScript
-    -Git
-    -GitHub
-    -Azure
- } 
-
+ 
+ Languages{
+    JavaSE
+    Python
+    HTML
+    CSS
+    JavaScript
+ }   
+ ~~~
