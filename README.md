@@ -1,19 +1,19 @@
 ## Hi there 👋 I'm Isui Martinez
-# Software Engineer 👨‍🚀
+### Software Engineer 👨‍🚀
 I love dogs and reading 📘
+"Less is more"
 ~~~
-Learning{  
+boolean Learning{  
     Computer Systems engineering
     Cybersecurity
     Cloud Computing
     Web Development
  }
  
- Languages{
-    JavaSE
-    Python
-    HTML
-    CSS
-    JavaScript
- }   
- ~~~
+if (Learning() == true){
+    print("It's ok");   
+} else {
+    print("Don't stop learning!");
+}
+~~~
+
