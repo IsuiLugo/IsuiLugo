@@ -3,7 +3,8 @@
 I love dogs and reading 📘
 "Less is more"
 ~~~
-boolean Learning{  
+
+boolean Learning (){  
     Computer Systems engineering
     Cybersecurity
     Cloud Computing
@@ -16,4 +17,3 @@ if (Learning() == true){
     print("Don't stop learning!");
 }
 ~~~
-
