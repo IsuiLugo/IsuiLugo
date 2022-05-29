@@ -1,17 +1,20 @@
 ## Hi there 👋 I'm Isui Martinez
 ### Software Engineer 👨‍🚀
-I love dogs and reading 📘
+I love my dog 🐶
 "Less is more"
 ~~~
-
-boolean Learning (){  
-    Computer Systems engineering
-    Cybersecurity
-    Cloud Computing
-    Web Development
+boolean Learning () { 
+    while (Live()) {
+        
+        "Computer Systems engineering";
+        "Cybersecurity";
+        "Cloud Computing";
+        "Web Development";
+        
+    }
  }
  
-if (Learning() == true){
+if (Learning ()) {
     print("It's ok");   
 } else {
     print("Don't stop learning!");
