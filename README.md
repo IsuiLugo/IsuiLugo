@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Isui Martinez
 ### Software Engineer 👨‍🚀
-I love my dog 🐶
+I love my dog 🐶 and Michi 😺
+
 "Less is more"
 ~~~
 boolean Learning () { 
