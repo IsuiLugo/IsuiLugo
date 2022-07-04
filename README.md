@@ -1,14 +1,16 @@
-# Saul Isui Lugo Martinez | Software Engineer 👨‍🚀
-### Professional Profile
+# About me 👨‍🚀
+![Banner](https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/Github%20profile.png?raw=true)
+### Professional Profile 👨‍💻
         
-        I'm a Software Developer with knoledgein solutions with Java Technologies | Web development | MS Azure Solutions  
+        I'm a Software Developer with knoledgein solutions   
+        Java Technologies | Web development | MS Azure Solutions  
         and cibersecurity student.
         
-### Education
+### Education 📚
         Computer Systems Engineering | Tecnológico Nacional de México (TecNM)
         Software Engineering | Universidad Digital del Estado de Hidalgo (UNIDEH)
 
-### Soft Skills
+### Soft Skills 🚀
         * Communications skills
         * User/Custumer servicer and support
         * Strong professional ethics
@@ -16,7 +18,7 @@
         * Technological troubleshooting
         
 
-### Certifications
+### Relevant courseworks and certifications 💡
         * Microsoft Azure Fundamentals AZ-900 by Innovacción Virtual MS México
         * DLP: Prevención de Perdida de datos by Platzi
         * Introducción a la Ingeniería social: Técnicas, Ataques y Pretexting by Platzi
@@ -25,7 +27,7 @@
 
 
 ### Philosophy
-~~~
+~~~ js
 boolean Learning () { 
     while (Live()) {
         
@@ -46,7 +48,6 @@ if (Learning ()) {
 ### Contact
 
 [Linkedin](https://www.linkedin.com/in/isui-lugo-martinez/)  
-
 [Instagram](https://www.instagram.com/isui_lugo_/)  
-
+[Platzi](https://platzi.com/r/IsuLugoM/)  
 I love my dog 🐶 and Michi 😺
