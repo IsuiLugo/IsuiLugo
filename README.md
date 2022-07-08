@@ -2,12 +2,12 @@
 ![Banner](https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/Github%20profile.png?raw=true)
 ### Professional Profile 👨‍💻
         
-        I'm a Software Developer with knoledgein solutions   
-        Java Technologies | Web development | MS Azure Solutions  
+        I'm a Software Developer with knoledge in solutions   
+        Java SE | Web development | MS Azure Solutions  
         and cibersecurity student.
         
 ### Education 📚
-        Computer Systems Engineering | Tecnológico Nacional de México (TecNM)
+        Computer Systems Engineering | Tecnológico Nacional de México campus Pachuca (TecNM Pachuca)
         Software Engineering | Universidad Digital del Estado de Hidalgo (UNIDEH)
 
 ### Soft Skills 🚀
@@ -50,4 +50,5 @@ if (Learning ()) {
 [Linkedin](https://www.linkedin.com/in/isui-lugo-martinez/)  
 [Instagram](https://www.instagram.com/isui_lugo_/)  
 [Platzi](https://platzi.com/r/IsuLugoM/)  
+
 I love my dog 🐶 and Michi 😺
