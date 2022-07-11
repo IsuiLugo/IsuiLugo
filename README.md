@@ -3,7 +3,7 @@
 ### Professional Profile 👨‍💻
         
         I'm a Software Developer and Cibersecurity Student
-        with knowledge is 
+        with knowledge in: 
         Java SE | Web development | Azure  
                 
 ### Education 📚
