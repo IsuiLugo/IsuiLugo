@@ -2,10 +2,10 @@
 ![Banner](https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/Github%20profile.png?raw=true)
 ### Professional Profile 👨‍💻
         
-        I'm a Software Developer with knoledge in solutions   
-        Java SE | Web development | MS Azure Solutions  
-        and cibersecurity student.
-        
+        I'm a Software Developer and Cibersecurity Student
+        with knowledge is 
+        Java SE | Web development | Azure  
+                
 ### Education 📚
         Computer Systems Engineering | Tecnológico Nacional de México campus Pachuca (TecNM Pachuca)
         Software Engineering | Universidad Digital del Estado de Hidalgo (UNIDEH)
@@ -23,7 +23,11 @@
         * DLP: Prevención de Perdida de datos by Platzi
         * Introducción a la Ingeniería social: Técnicas, Ataques y Pretexting by Platzi
         * Seguridad Informática para empresas by Platzi
+        * Inteligencia para la ciberseguridad by Platzi
         
+### Languages
+        *Spanish: Native
+        *English: B1 Intermediate
 
 
 ### Philosophy
