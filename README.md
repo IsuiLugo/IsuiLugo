@@ -6,32 +6,37 @@
         with knowledge in: 
         Java SE | Web development | Azure  
                 
-### Education 📚
-        Computer Systems Engineering | Tecnológico Nacional de México campus Pachuca (TecNM Pachuca)
-        Software Engineering | Universidad Digital del Estado de Hidalgo (UNIDEH)
+## Education 📚
+- **Computer Systems Engineering**
+    > Tecnológico Nacional de México campus Pachuca (TecNM Pachuca)
+- **Software Engineering**
+    > Universidad Digital del Estado de Hidalgo (UNIDEH)
 
-### Soft Skills 🚀
-        * Communications skills
-        * User/Custumer servicer and support
-        * Strong professional ethics
-        * Agile methodologies
-        * Technological troubleshooting
+## Soft Skills 🚀
+* Communications skills
+* User/Custumer servicer and support
+* Strong professional ethics
+* Agile methodologies
+* Technological troubleshooting
         
 
-### Relevant courseworks and certifications 💡
-        * Microsoft Azure Fundamentals AZ-900 by Innovacción Virtual MS México
-        * DLP: Prevención de Perdida de datos by Platzi
-        * Introducción a la Ingeniería social: Técnicas, Ataques y Pretexting by Platzi
-        * Seguridad Informática para empresas by Platzi
-        * Inteligencia para la ciberseguridad by Platzi
+## Relevant courseworks and certifications 💡
+- Microsoft Azure Fundamentals AZ-900
+  > By Innovacción Virtual Microsoft México
+- DLP: Prevención de Perdida de datos
+  >By Platzi
+- Introducción a la Ingeniería social: Técnicas, Ataques y Pretexting
+  >By Platzi
+- Inteligencia para la ciberseguridad
+  >By Platzi
         
-### Languages
-        *Spanish: Native
-        *English: B1 Intermediate
+## Languages
+ - Spanish: Native
+ - English: B1 Intermediate
 
 
 ### Philosophy
-~~~ js
+~~~ java
 boolean Learning () { 
     while (Live()) {
         
@@ -51,8 +56,10 @@ if (Learning ()) {
 ~~~
 ### Contact
 
-[Linkedin](https://www.linkedin.com/in/isui-lugo-martinez/)  
-[Instagram](https://www.instagram.com/isui_lugo_/)  
+<a href="https://www.linkedin.com/in/isui-lugo-martinez"><img src="https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/linkedin.png?raw=true" alt="Linkedin" ></a>  
+
+<a href="https://www.instagram.com/isui_lugo_/"><img src="https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/instagram.png?raw=true" alt="Linkedin" ></a>  
+
 [Platzi](https://platzi.com/r/IsuLugoM/)  
 
 I love my dog 🐶 and Michi 😺
