@@ -1,10 +1,8 @@
-# About me 👨‍🚀
+## About me 👨‍🚀
 ![Banner](https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/Github%20profile.png?raw=true)
 ### Professional Profile 👨‍💻
-        
-        I'm a Software Developer and Cibersecurity Student
-        with knowledge in: 
-        Java SE | Web development | Azure  
+I'm a Software Developer and Cybersecurity Student with knowledge in:  
+Java SE | Web development | Azure | OSINT | Netwoking
                 
 ## Education 📚
 - **Computer Systems Engineering**
@@ -19,6 +17,22 @@
 * Agile methodologies
 * Technological troubleshooting
         
+## Technical Skills 💻
+* Java SE
+* HTML, CSS, JS
+* Python
+* MySQL
+* Microsoft Azure
+* Kali Linux
+
+## Proyects 👨‍🚀
+
+* [PushDownAutomata](https://github.com/IsuiLugo/PDA) | Simulation in Java
+  > Program that simulates a stack automaton in Java. It uses stacks (data structure) programmed by the computer.
+* [Pasteleria Galactica](https://github.com/IsuiLugo/Pasteleria) with HTML5 & CSS3
+  > Brand desing and Website layout.
+* [Tools for active Scanning](https://github.com/IsuiLugo/EscaneoActivoDeVulnerabilidades) | Cybersecurity Tools
+  > Proyect for coursework in Platzi
 
 ## Relevant courseworks and certifications 💡
 - Microsoft Azure Fundamentals AZ-900
@@ -30,12 +44,12 @@
 - Inteligencia para la ciberseguridad
   >By Platzi
         
-## Languages
+## Languages 🌐
  - Spanish: Native
  - English: B1 Intermediate
 
 
-### Philosophy
+### Philosophy 🤔
 ~~~ java
 boolean Learning () { 
     while (Live()) {
@@ -62,4 +76,4 @@ if (Learning ()) {
 
 [Platzi](https://platzi.com/r/IsuLugoM/)  
 
-I love my dog 🐶 and Michi 😺
+Thank's
