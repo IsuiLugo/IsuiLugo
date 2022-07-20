@@ -28,7 +28,7 @@ Java SE | Web development | Azure | OSINT | Netwoking
 ## Proyects 👨‍🚀
 
 * [PushDownAutomata](https://github.com/IsuiLugo/PDA) | Simulation in Java
-  > Program that simulates a stack automaton in Java. It uses stacks (data structure) programmed by the computer.
+  > Program that simulates a stack automaton in Java. It uses stacks (data structure) programmed by the team.
 * [Pasteleria Galactica](https://github.com/IsuiLugo/Pasteleria) with HTML5 & CSS3
   > Brand desing and Website layout.
 * [Tools for active Scanning](https://github.com/IsuiLugo/EscaneoActivoDeVulnerabilidades) | Cybersecurity Tools
