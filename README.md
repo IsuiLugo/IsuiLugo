@@ -6,9 +6,9 @@ Java SE | Web development | Azure | OSINT | Netwoking
                 
 ## Education 📚
 - **Computer Systems Engineering**
-    > Tecnológico Nacional de México campus Pachuca (TecNM Pachuca)
+    > Tecnológico Nacional de México campus Pachuca (TecNM Pachuca) 2019 - 2023 (Expected)
 - **Software Engineering**
-    > Universidad Digital del Estado de Hidalgo (UNIDEH)
+    > Universidad Digital del Estado de Hidalgo (UNIDEH) 2020 - 2024 (Expected)
 
 ## Soft Skills 🚀
 * Communications skills
@@ -77,4 +77,4 @@ if (Learning ()) {
 
 [Platzi](https://platzi.com/r/IsuLugoM/)  
 
-Thank's
+**With <3 Isui**
