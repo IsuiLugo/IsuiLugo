@@ -2,7 +2,7 @@
 ![Banner](https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/Banner%20de%20LinkedIn%20Tecnolog%C3%ADa%20Negro%20Ethical%20Hacking.png?raw=true)
 ### Professional Profile 👨‍💻
 I'm a Software Developer and Cybersecurity Student with knowledge in:  
-Java SE | Web development | Azure | OSINT | Netwoking
+Java SE | Web development | Azure | OSINT | Netwoking | Linux
                 
 ## Education 📚
 - **Computer Systems Engineering**
@@ -69,7 +69,7 @@ if (Learning ()) {
     print("Don't stop learning!");
 }
 ~~~
-### Contact
+## Contact me!
 
 <a href="https://www.linkedin.com/in/isui-lugo-martinez"><img src="https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/linkedin.png?raw=true" alt="Linkedin" ></a>  
 
@@ -77,4 +77,4 @@ if (Learning ()) {
 
 [Platzi](https://platzi.com/r/IsuLugoM/)  
 
-**With <3 Isui**
+**With 💙 Isui**
