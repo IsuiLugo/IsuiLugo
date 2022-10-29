@@ -28,9 +28,9 @@ Java SE | Web development | Azure | OSINT | Netwoking | Linux
 ## Proyects 👨‍🚀
 * [El Rincón del Chef](https://www.xn--rincndelchef-3hb.com/) | WebSite and Deployment
   > Brand desing and deploytment
-* [PushDownAutomata](https://github.com/IsuiLugo/PDA) | Simulation in Java
-  > Program that simulates a stack automaton in Java. It uses stacks (data structure) programmed by the team.
-* [Pasteleria Galactica](https://github.com/IsuiLugo/Pasteleria) with HTML5 & CSS3
+* [Box Class](https://www.boxclass.net/) | Web Site and Deployment
+  > Proyect to metaverse
+* [Pasteleria Galactica](https://github.com/IsuiLugo/Pasteleria) | Web Page and Deployment
   > Brand desing and Website layout.
 * [Tools for active Scanning](https://github.com/IsuiLugo/EscaneoActivoDeVulnerabilidades) | Cybersecurity Tools
   > Proyect for coursework in Platzi
