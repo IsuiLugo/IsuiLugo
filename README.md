@@ -37,11 +37,11 @@ Java SE | Web development | Azure | OSINT | Netwoking | Kali Linux | Cybersecuri
 
 ## Relevant courseworks and certifications 💡
 - Microsoft Azure Fundamentals AZ-900
-  > By Innovacción Virtual Microsoft México
-- DLP: Prevención de Perdida de datos
-  >By Platzi
-- Introducción a la Ingeniería social: Técnicas, Ataques y Pretexting
-  >By Platzi
+  > By Microsoft México
+- Network Security Associate NS1
+  >By Fortinet Latam
+- Gestión y respuesta a incidentes
+  >By ESET Latinoamerica
 - Inteligencia para la ciberseguridad
   >By Platzi
         
@@ -71,10 +71,8 @@ if (Learning ()) {
 ~~~
 ## Contact me!
 
-<a href="https://www.linkedin.com/in/isui-lugo-martinez"><img src="https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/linkedin.png?raw=true" alt="Linkedin" ></a>  
-
-<a href="https://www.instagram.com/isui_lugo_/"><img src="https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/instagram.png?raw=true" alt="Linkedin" ></a>  
-
+<a href="https://www.linkedin.com/in/isui-lugo-martinez"><img src="https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/linkedin.png?raw=true" alt="Linkedin" ></a>
+<a href="https://www.instagram.com/isui_lugo_/"><img src="https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/instagram.png?raw=true" alt="Linkedin" ></a>
 [Platzi](https://platzi.com/r/IsuLugoM/)  
 
 **With 💙 Isui**
