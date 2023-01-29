@@ -1,8 +1,8 @@
 ## About me 👨‍🚀
 ![Banner](https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/Banner%20de%20LinkedIn%20Tecnolog%C3%ADa%20Negro%20Ethical%20Hacking.png?raw=true)
 ### Professional Profile 👨‍💻
-I'm a Software Developer and Cybersecurity Student with knowledge in:  
-Java SE | Web development | Azure | OSINT | Netwoking | Linux
+Hello! I'm a Developer and Security Engineer with knowledge in:  
+Java SE | Web development | Azure | OSINT | Netwoking | Kali Linux | Cybersecurity
                 
 ## Education 📚
 - **Computer Systems Engineering**
