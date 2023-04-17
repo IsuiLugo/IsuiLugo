@@ -1,14 +1,20 @@
-## About me 👨‍🚀
+# Happy H4King!
 ![Banner](https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/Banner%20de%20LinkedIn%20Tecnolog%C3%ADa%20Negro%20Ethical%20Hacking.png?raw=true)
-### Professional Profile 👨‍💻
-Hello! I'm a Security Engineer with knowledge in:  
-Java SE | Web development | Azure | OSINT | Netwoking | Kali Linux | Cybersecurity
 
-
-
+* [Profile](Professional-Profile)
 * [Educacion](#Education)
-* [Soft Skills 🚀](#Soft-Skills)
-* [TechSkils](#Technical-Skills)
+* [Soft Skills](#Soft-Skills)
+* [Hard Skills](#Hard-Skills)
+* [Cool Proyects](Proyects)
+* [Any Certificacions](Certifications)
+* [My thinking](Thinking)
+
+
+
+## Professional Profile 👨‍💻
+
+Hello! I am a Student of the [Tecnológico Nacional de México campus Pachuca](http://pachuca.tecnm.mx/index.php) and[UNIDEH](http://www.unideh.edu.mx/)(Universidad Digital del Estado de Hidalgo), I want to be a Security Engineer, I currently work at Tec Pachuca, in the "Academic Development" Department in an internship program (Social Service), I participated in programs such as Oracle One Education, Virtual Innovation of Microsoft Mexico.
+I seek to be a Cyber Security professional, in the field of Pentesting, I document my training and courses, you can see my [notes](#Notes) in the Notes Section.
 
 ## Education
 - **Computer Systems Engineering**
@@ -23,7 +29,7 @@ Java SE | Web development | Azure | OSINT | Netwoking | Kali Linux | Cybersecuri
 * Agile methodologies
 * Technological troubleshooting
         
-## Technical Skills 💻
+## Hard Skills
 * Java SE
 * HTML, CSS, JS
 * Python
@@ -31,7 +37,7 @@ Java SE | Web development | Azure | OSINT | Netwoking | Kali Linux | Cybersecuri
 * Microsoft Azure
 * Kali Linux
 
-## Proyects 👨‍🚀
+## Proyects
 * [El Rincón del Chef](https://www.xn--rincndelchef-3hb.com/) | WebSite and Deployment
   > Brand desing and deploytment
 * [Box Class](https://www.boxclass.net/) | Web Site and Deployment
@@ -41,7 +47,7 @@ Java SE | Web development | Azure | OSINT | Netwoking | Kali Linux | Cybersecuri
 * [Tools for active Scanning](https://github.com/IsuiLugo/EscaneoActivoDeVulnerabilidades) | Cybersecurity Tools
   > Proyect for coursework in Platzi
 
-## Relevant courseworks and certifications 💡
+## Certifications
 - Microsoft Azure Fundamentals AZ-900
   > By Microsoft México
 - Network Security Associate NS1
@@ -50,13 +56,11 @@ Java SE | Web development | Azure | OSINT | Netwoking | Kali Linux | Cybersecuri
   >By ESET Latinoamerica
 - Inteligencia para la ciberseguridad
   >By Platzi
-        
-## Languages 🌐
- - Spanish: Native
- - English: B1 Intermediate
 
-
-### Philosophy 🤔
+## Notes
+Any of my Notes :)
+     
+### Thinking
 ~~~ java
 boolean Learning () { 
     while (Live()) {
@@ -81,4 +85,5 @@ if (Learning ()) {
 <a href="https://www.instagram.com/isui_lugo_/"><img src="https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/instagram.png?raw=true" alt="Linkedin" ></a>
 [Platzi](https://platzi.com/r/IsuLugoM/)  
 
-**With 💙 Isui**
+**With 💙 Isui** Happy Hacking
+
