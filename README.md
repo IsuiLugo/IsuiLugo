@@ -5,9 +5,11 @@
 * [Educacion](#Education)
 * [Soft Skills](#Soft-Skills)
 * [Hard Skills](#Hard-Skills)
-* [Cool Proyects](Proyects)
-* [Any Certificacions](Certifications)
-* [My thinking](Thinking)
+* [Cool Proyects](#Proyects)
+* [Any Certificacions](#Certifications)
+* [Cool Notes](#Notes)
+* [My thinking](#Thinking)
+* [Contact with Me](#Contact)
 
 
 
@@ -79,7 +81,7 @@ if (Learning ()) {
     print("Don't stop learning!");
 }
 ~~~
-## Contact me!
+## Contact
 
 <a href="https://www.linkedin.com/in/isui-lugo-martinez"><img src="https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/linkedin.png?raw=true" alt="Linkedin" ></a>
 <a href="https://www.instagram.com/isui_lugo_/"><img src="https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/instagram.png?raw=true" alt="Linkedin" ></a>
