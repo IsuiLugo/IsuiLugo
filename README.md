@@ -15,8 +15,7 @@
 
 ## Professional Profile 👨‍💻
 
-Hello! I am a Student of the [Tecnológico Nacional de México campus Pachuca](http://pachuca.tecnm.mx/index.php) and[UNIDEH](http://www.unideh.edu.mx/)(Universidad Digital del Estado de Hidalgo), I want to be a Security Engineer, I currently work at Tec Pachuca, in the "Academic Development" Department in an internship program (Social Service), I participated in programs such as Oracle One Education, Virtual Innovation of Microsoft Mexico.
-I seek to be a Cyber Security professional, in the field of Pentesting, I document my training and courses, you can see my [notes](#Notes) in the Notes Section.
+Hello! I am a Student of the [Tecnológico Nacional de México campus Pachuca](http://pachuca.tecnm.mx/index.php) and [UNIDEH](http://www.unideh.edu.mx/)(Universidad Digital del Estado de Hidalgo), I want to be a Security Engineer, I currently work at Tec Pachuca, in the "Academic Development" Department in an internship program (Social Service), I participated in programs such as Oracle One Education, Virtual Innovation of Microsoft Mexico. I seek to be a Cyber Security professional, in the field of Pentesting, I document my training and courses, you can see my [notes](#Notes) in the Notes Section.
 
 ## Education
 - **Computer Systems Engineering**
@@ -62,7 +61,7 @@ I seek to be a Cyber Security professional, in the field of Pentesting, I docume
 ## Notes
 Any of my Notes :)
      
-### Thinking
+## Thinking
 ~~~ java
 boolean Learning () { 
     while (Live()) {
