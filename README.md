@@ -1,10 +1,23 @@
 ## About me 👨‍🚀
 ![Banner](https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/Banner%20de%20LinkedIn%20Tecnolog%C3%ADa%20Negro%20Ethical%20Hacking.png?raw=true)
 ### Professional Profile 👨‍💻
-Hello! I'm a Developer and Security Engineer with knowledge in:  
+Hello! I'm a Security Engineer with knowledge in:  
 Java SE | Web development | Azure | OSINT | Netwoking | Kali Linux | Cybersecurity
-                
-## Education 📚
+
+
+
+* [Educacion now](#Education)
+
+
+* [Education](#Education)
+
+
+
+## Programming languages
+
+## Educacion now
+
+## Education
 - **Computer Systems Engineering**
     > Tecnológico Nacional de México campus Pachuca (TecNM Pachuca) 2019 - 2023 (Expected)
 - **Software Engineering**
