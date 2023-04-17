@@ -16,7 +16,7 @@ Java SE | Web development | Azure | OSINT | Netwoking | Kali Linux | Cybersecuri
 - **Software Engineering**
     > Universidad Digital del Estado de Hidalgo (UNIDEH) 2020 - 2024 (Expected)
 
-## Soft Skills 🚀
+## Soft Skills
 * Communications skills
 * User/Custumer servicer and support
 * Strong professional ethics
