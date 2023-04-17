@@ -7,7 +7,7 @@ Java SE | Web development | Azure | OSINT | Netwoking | Kali Linux | Cybersecuri
 
 
 * [Educacion](#Education)
-* [Soft Skills](#Soft-Skils)
+* [Soft Skills 🚀](#Soft-Skils)
 * [TechSkils](#Technical Skills)
 
 ## Education
