@@ -1,4 +1,4 @@
-# Happy H4King!
+# H@ppy H4k1ng!
 ![Banner](https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/Banner%20de%20LinkedIn%20Tecnolog%C3%ADa%20Negro%20Ethical%20Hacking.png?raw=true)
 
 * [Profile](Professional-Profile)
@@ -15,7 +15,7 @@
 
 ## Professional Profile 👨‍💻
 
-Hello! I am a Student of the [Tecnológico Nacional de México campus Pachuca](http://pachuca.tecnm.mx/index.php) and [UNIDEH](http://www.unideh.edu.mx/)(Universidad Digital del Estado de Hidalgo), I want to be a Security Engineer, I currently work at Tec Pachuca, in the "Academic Development" Department in an internship program (Social Service), I participated in programs such as Oracle One Education, Virtual Innovation of Microsoft Mexico. I seek to be a Cyber Security professional, in the field of Pentesting, I document my training and courses, you can see my [notes](#Notes) in the Notes Section.
+Hello! I am a Student of the [Tecnológico Nacional de México campus Pachuca](http://pachuca.tecnm.mx/index.php) and [UNIDEH](http://www.unideh.edu.mx/) (Universidad Digital del Estado de Hidalgo), I want to be a Security Engineer, I currently work at Tec Pachuca, in the "Desarrollo Acádemico" Department in an internship program (Social Service), I participated in programs such as [Oracle One Education](https://www.oracle.com/mx/education/oracle-next-education/), or [Innovaccion Virtual of Microsoft Mexico](https://www.instagram.com/innovaccionvirtual/). I seek to be a Cyber Security professional, in the field of Pentesting, I document my training and courses, you can see my [notes section](#Notes) or my [blog of Cybersecurity](https://l19200205.wixsite.com/cybersecdevadvance/blog).
 
 ## Education
 - **Computer Systems Engineering**
@@ -81,10 +81,12 @@ if (Learning ()) {
 }
 ~~~
 ## Contact
-
-<a href="https://www.linkedin.com/in/isui-lugo-martinez"><img src="https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/linkedin.png?raw=true" alt="Linkedin" ></a>
-<a href="https://www.instagram.com/isui_lugo_/"><img src="https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/instagram.png?raw=true" alt="Linkedin" ></a>
+Connect with mein Linkeding    <a href="https://www.linkedin.com/in/isui-lugo-martinez"><img src="https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/linkedin.png?raw=true" alt="Linkedin" ></a>  
+My others social media  
+<a href="https://www.instagram.com/isui_lugo_/"><img src="https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/instagram.png?raw=true" alt="Instagram" ></a>
 [Platzi](https://platzi.com/r/IsuLugoM/)  
 
-**With 💙 Isui** Happy Hacking
+  
+  
+**With 💙 Isui**
 
