@@ -8,13 +8,14 @@ In my academic training, I have participated in various research projects and I 
 
 My goal is to continue learning and growing in the field of technology and cybersecurity, in order to be able to contribute my skills and knowledge to companies, organizations and innovative projects in the future.
 
+### A few about me!
+
 * [Educacion](#Education)
 * [Soft Skills](#Soft-Skills)
 * [Hard Skills](#Hard-Skills)
 * [Cool Proyects](#Proyects)
 * [Any Certificacions](#Certifications)
 * [Cool Notes](#Notes)
-* [My thinking](#Thinking)
 * [Contact with Me](#Contact)
 
 ## Education
@@ -73,32 +74,12 @@ My goal is to continue learning and growing in the field of technology and cyber
 ## Notes
 Any of my Notes :)
      
-## Thinking
-~~~ java
-boolean Learning () { 
-    while (Live()) {
-        
-        "Computer Systems engineering";
-        "Cybersecurity";
-        "Cloud Computing";
-        "Web Development";
-        
-    }
- }
- 
-if (Learning ()) {
-    print("It's ok");   
-} else {
-    print("Don't stop learning!");
-}
-~~~
 ## Contact
-Connect with mein Linkeding    <a href="https://www.linkedin.com/in/isui-lugo-martinez"><img src="https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/linkedin.png?raw=true" alt="Linkedin" ></a>  
-My others social media  
-<a href="https://www.instagram.com/isui_lugo_/"><img src="https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/instagram.png?raw=true" alt="Instagram" ></a>
-[Platzi](https://platzi.com/r/IsuLugoM/)  
+> [Download my CV, Clic here!](https://github.com/IsuiLugo/IsuiLugo/blob/77321637479dc4c648540fe1e5eab0902671723d/Images/cv%20isui%20Azul%20ver%20english.pdf)  
 
-  
-  
-**With 💙 Isui**
+> Connect with me in Linkeding <a href="https://www.linkedin.com/in/isui-lugo-martinez"><img src="https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/linkedin.png?raw=true" alt="Linkedin" ></a>  
+> My others social media  
+> <a href="https://www.instagram.com/isui_lugo_/"><img src="https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/instagram.png?raw=true" alt="Instagram" ></a>
+        
+**With 💙 Isui Matinez**
 
