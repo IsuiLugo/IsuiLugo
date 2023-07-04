@@ -20,9 +20,7 @@ My goal is to continue learning and growing in the field of technology and cyber
 
 ## Education
 - **Computer Systems Engineering**
-    > Tecnológico Nacional de México campus Pachuca (TecNM Pachuca) 2019 - 2023 (Expected)
-- **Software Engineering**
-    > Universidad Digital del Estado de Hidalgo (UNIDEH) 2020 - 2024 (Expected)
+    > Tecnológico Nacional de México campus Pachuca (TecNM Pachuca) 2019 - 2024 (Expected)
 
 ## Soft Skills
 * Communications skills
