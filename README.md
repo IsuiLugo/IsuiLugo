@@ -1,4 +1,4 @@
-# Hello! Hi! Hola and Hacking!
+# Hello! Hi! Hola!
 ![Banner](https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/Banner%20Para%20LinkedIn%20Desarrollador%20De%20Software%20Moderno%20Negro%20(1).png?raw=true)
 <div align="center">
   <a href="https://www.linkedin.com/in/isui-lugo-martinez">
@@ -61,7 +61,7 @@ Computer Systems Engineering
      
 ## Contact
 - [Download my CV, English version, Clic here!](https://github.com/IsuiLugo/IsuiLugo/blob/77321637479dc4c648540fe1e5eab0902671723d/Images/cv%20isui%20Azul%20ver%20english.pdf)
-- [Download my Cv Spanish version, Clic here!](https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/cv%20isui%20martinez%20espa%C3%B1ol%20azul%20obscuro%20(2).pdf)
+- [Download my Cv, Spanish version, Clic here!](https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/cv%20isui%20martinez%20espa%C3%B1ol%20azul%20obscuro%20(2).pdf)
 
 **With 💙 Isui Matinez**
 
