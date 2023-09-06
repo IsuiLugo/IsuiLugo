@@ -1,96 +1,67 @@
-# Hola! Hi!
+# Hello! Hi! Hola and Hacking!
 ![Banner](https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/Banner%20Para%20LinkedIn%20Desarrollador%20De%20Software%20Moderno%20Negro%20(1).png?raw=true)
+<div align="center">
+  <a href="https://www.linkedin.com/in/isui-lugo-martinez">
+    <img src="https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/linkedin.png?raw=true" alt="Linkedin">
+  </a>
+  <a href="https://www.instagram.com/isui_lugo_/">
+    <img src="https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/instagram.png?raw=true" alt="Instagram">
+  </a>
+</div>
 
+Hello! I'm Isui Martinez and I appreciate your interest in my profile. Currently, I am a last semester student of Computer Systems Engineering at the [Tecnológico Nacional de México campus Pachuca](http://pachuca.tecnm.mx/index.php).  
 
-Hello! I'm Isui Martinez and I appreciate your interest in my profile. Currently, I am a last semester student of Computer Systems Engineering at the [Tecnológico Nacional de México campus Pachuca](http://pachuca.tecnm.mx/index.php). I am passionate about the field of cybersecurity, especially the Pentesting area. At this moment, I am doing a scientific stay at the [Instituto Nacional de Astrofísica, Óptica y Electrónica](https://www.inaoep.mx/) (INAOE), focused on cybersecurity research.
+I am a Security Engineer, currently looking for a job opportunity, in the field of Cybersecurity. I am a proactive professional, teamwork oriented, responsible and organized. My passion for innovation and continuous learning motivates me to seek new challenges and growth opportunities. I am excited to apply my skills and knowledge in a professional environment and make a significant contribution to cybersecurity.  
 
 In my academic training, I have participated in various research projects and I have also been part of extracurricular programs. For example, I completed the Oracle Next Education program, where I gained skills as a Full Stack developer. In addition, I participated in the Microsoft Mexico Innovaccion Virtual program, where I obtained the Microsoft Certified Azure Fundamentals certification. I also hold other certifications, such as "ESET Latin America Incident Management and Response" and NSE 1 Network Security Associate from Fortinet.
 
 My goal is to continue learning and growing in the field of technology and cybersecurity, in order to be able to contribute my skills and knowledge to companies, organizations and innovative projects in the future.
 
-### A few about me!
+## Experience
+> Researcher Assistant in Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)
+  - Scientific Research Summer Program:
+    - Research line "Cybersecurity".
+    - Malware analysis for mobile devices (Android).
+    - Pentesting on mobile devices.
+   
+> IT Assitant in the Departamento de Desarrollo Académico en Instituto Tecnológico de Pachuca:
+  * Preventive and corrective maintenance of computer equipment (computers, printers, etc.)
+  * Technological solutions
+  * Generation of reports in Excel
 
-* [Educacion](#Education)
-* [Soft Skills](#Soft-Skills)
-* [Hard Skills](#Hard-Skills)
-* [Cool Proyects](#Proyects)
-* [Any Certificacions](#Certifications)
-* [Cool Notes](#Notes)
-* [Contact with Me](#Contact)
-
-## Education
-- **Computer Systems Engineering**
-    > Tecnológico Nacional de México campus Pachuca (TecNM Pachuca) 2019 - 2024 (Expected)
-
-## Soft Skills
-* Communications skills
-* User/Custumer servicer and support
-* Strong professional ethics
-* Agile methodologies
-* Technological troubleshooting
-        
-## Hard Skills
-- **Development**
-  > - Java
-  > - C, C++, C#, .Net, ASP
-  > - Python
-  > - JavaScript
-  > - HTML, CSS
-
-- **Pentesting**
-  > - Nmap
-  > - BurpSuite
-  > - Metasploit
-  > - Wireshark
-
-- **Cloud Computing**
-  > - AWS
-  > - GCP
-  > - Azure
+> Independent Information Systems Technician
+  * Preventive and corrective maintenance of computer equipment.
+  * Assembly of high-performance computing equipment
 
 
 ## Proyects
-* [El Rincón del Chef](https://www.xn--rincndelchef-3hb.com/) | WebSite and Deployment
-  > Brand desing and deploytment
-* [Box Class](https://www.boxclass.net/) | Web Site and Deployment
-  > Proyect to metaverse
-* [Pasteleria Galactica](https://github.com/IsuiLugo/Pasteleria) | Web Page and Deployment
-  > Brand desing and Website layout.
-* [Tools for active Scanning](https://github.com/IsuiLugo/EscaneoActivoDeVulnerabilidades) | Cybersecurity Tools
-  > Proyect for coursework in Platzi
+- [Análisis de seguridad de aplicaciones móviles wearables para sistema operativo Android](https://github.com/IsuiLugo/Verano-Cientifico-Delfin-INAOE-CCC-TECNM_PACHUCA)
+  > Proyecto de Investigación Científica como parte del Programa de Investigación Científica y Tecnológica del Pacífico “Delfín”.
 
+- [Box Class](https://www.boxclass.net)
+  > Proyecto de Investigación y desarrollo como parte del Taller de Investigación en el Instituto Tecnológico de Pachuca en la carrera en Ingeniería en Sistemas Computacionales.
+
+## Education
+Computer Systems Engineering
+ > Instituto Tecnológico de Pachuca
 ## Certifications
-- Microsoft Azure Fundamentals AZ-900
-  > By Microsoft México
-- Network Security Associate NS1
-  >By Fortinet Latam
-- Gestión y respuesta a incidentes
-  >By ESET Latinoamerica
-- Inteligencia para la ciberseguridad
-  >By Platzi
+* Microsoft Certified Azure Fundamentals | Microsoft
+* Network Security Associate | Fortinet
+* Gestión y Respuesta a incidentes | ESET
+* Google Cloud Computing Foundations | Google
+* Network Defense Essentials | EC-Council
+## Skills
+* Teamwork
+* I work under pressure
+* Proactive
+* Troubleshooting
+* Effective communication
+* Excellent user/customer service
 
-## Notes
-Any of my Notes :)
      
 ## Contact
-> [Download my CV, Clic here!](https://github.com/IsuiLugo/IsuiLugo/blob/77321637479dc4c648540fe1e5eab0902671723d/Images/cv%20isui%20Azul%20ver%20english.pdf)  
+- [Download my CV, English version, Clic here!](https://github.com/IsuiLugo/IsuiLugo/blob/77321637479dc4c648540fe1e5eab0902671723d/Images/cv%20isui%20Azul%20ver%20english.pdf)
+- [Download my Cv Spanish version, Clic here!](https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/cv%20isui%20martinez%20espa%C3%B1ol%20azul%20obscuro%20(2).pdf)
 
-> Connect with me in Linkeding <a href="https://www.linkedin.com/in/isui-lugo-martinez"><img src="https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/linkedin.png?raw=true" alt="Linkedin" ></a>  
-> My others social media  
-> <a href="https://www.instagram.com/isui_lugo_/"><img src="https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/instagram.png?raw=true" alt="Instagram" ></a>
-
-
-
-
-  
-
-╭╮╱╭┳╮╱╭╮╱╱╱╱╭╮╱╱╭╮╭╮╱╭┳╮╱╭╮╱╱╭╮╱╱╱╱╱╱╱╱╱╭━━╮╱╱╱╱╱╭━━╮  
-┃┃╱┃┃┃╱┃┃╱╱╱╱┃╰╮╭╯┃┃┃╱┃┃┃╱┃┃╱╱┃┃╱╱╱╱╱╱╱╱╱┃╭╮┃╱╱╱╱╱╰┫┣╯  
-┃╰━╯┃╰━╯┣━━┳━┻╮╰╯╭╯┃╰━╯┃╰━╯┣━━┫┃╭┳┳━╮╭━━╮┃╰╯╰┳╮╱╭╮╱┃┃╭━━┳╮╭┳╮  
-┃╭━╮┣━━╮┃╭╮┃╭╮┣╮╭╯╱┃╭━╮┣━━╮┃╭━┫╰╯╋┫╭╮┫╭╮┃┃╭━╮┃┃╱┃┃╱┃┃┃━━┫┃┃┣┫  
-┃┃╱┃┃╱╱┃┃╰╯┃╰╯┃┃┃╱╱┃┃╱┃┃╱╱┃┃╰━┫╭╮┫┃┃┃┃╰╯┃┃╰━╯┃╰━╯┃╭┫┣╋━━┃╰╯┃┃  
-╰╯╱╰╯╱╱╰┫╭━┫╭━╯╰╯╱╱╰╯╱╰╯╱╱╰┻━━┻╯╰┻┻╯╰┻━╮┃╰━━━┻━╮╭╯╰━━┻━━┻━━┻╯  
-╱╱╱╱╱╱╱╱┃┃╱┃┃╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭━╯┃╱╱╱╱╭━╯┃  
-╱╱╱╱╱╱╱╱╰╯╱╰╯╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰━━╯╱╱╱╱╰━━╯  
 **With 💙 Isui Matinez**
 
