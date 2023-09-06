@@ -1,5 +1,5 @@
 # Hola! Hi!
-![Banner](https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/Banner%20de%20LinkedIn%20Tecnolog%C3%ADa%20Negro%20Ethical%20Hacking.png?raw=true)
+![Banner](https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/Banner%20Para%20LinkedIn%20Desarrollador%20De%20Software%20Moderno%20Negro%20(1).png?raw=true)
 
 
 Hello! I'm Isui Martinez and I appreciate your interest in my profile. Currently, I am a last semester student of Computer Systems Engineering at the [Tecnológico Nacional de México campus Pachuca](http://pachuca.tecnm.mx/index.php). I am passionate about the field of cybersecurity, especially the Pentesting area. At this moment, I am doing a scientific stay at the [Instituto Nacional de Astrofísica, Óptica y Electrónica](https://www.inaoep.mx/) (INAOE), focused on cybersecurity research.
