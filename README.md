@@ -35,15 +35,22 @@ My goal is to continue learning and growing in the field of technology and cyber
 
 
 ## Proyects
-- [Análisis de seguridad de aplicaciones móviles wearables para sistema operativo Android](https://github.com/IsuiLugo/Verano-Cientifico-Delfin-INAOE-CCC-TECNM_PACHUCA)
+- [Análisis de seguridad de aplicaciones móviles wearables para sistema operativo Android](https://github.com/IsuiLugo/Verano-Cientifico-Delfin-INAOE-CCC-TECNM_PACHUCA) (Spanish)
   > Proyecto de Investigación Científica como parte del Programa de Investigación Científica y Tecnológica del Pacífico “Delfín”.
 
-- [Box Class](https://www.boxclass.net)
-  > Proyecto de Investigación y desarrollo como parte del Taller de Investigación en el Instituto Tecnológico de Pachuca en la carrera en Ingeniería en Sistemas Computacionales.
+- [Box Class](https://www.boxclass.net) (Spanish)
+  > Proyecto de Investigación y desarrollo como parte de la asignatura "Taller de Investigación" de la carrera de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Pachuca en la carrera en Ingeniería en Sistemas Computacionales.
+
+- [Blog of Cybersecurity](https://l19200205.wixsite.com/cybersecdevadvance/blog)
+  > My blog of Cybersecurity and Hacking.
 
 ## Education
-Computer Systems Engineering
- > Instituto Tecnológico de Pachuca
+- Computer Systems Engineering
+   > Instituto Tecnológico de Pachuca
+
+- Software Engineering
+   > Universidad Digital del Estado de Hidalgo
+
 ## Certifications
 * Microsoft Certified Azure Fundamentals | Microsoft
 * Network Security Associate | Fortinet
@@ -60,7 +67,8 @@ Computer Systems Engineering
 
      
 ## Contact
-- [Download my CV, English version, Clic here!](https://github.com/IsuiLugo/IsuiLugo/blob/77321637479dc4c648540fe1e5eab0902671723d/Images/cv%20isui%20Azul%20ver%20english.pdf)
+- [LinkedIn](https://www.linkedin.com/in/isui-lugo-martinez/)
+- [Download my Cv, English version, Clic here!](https://github.com/IsuiLugo/IsuiLugo/blob/77321637479dc4c648540fe1e5eab0902671723d/Images/cv%20isui%20Azul%20ver%20english.pdf)
 - [Download my Cv, Spanish version, Clic here!](https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/cv%20isui%20martinez%20espa%C3%B1ol%20azul%20obscuro%20(2).pdf)
 
 **With 💙 Isui Matinez**
